@@ -1,0 +1,15 @@
+current directory: /Users/shuichirokinjo/rails/rspec_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/shuichirokinjo/.rbenv/versions/2.6.6/bin/ruby -I /Users/shuichirokinjo/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20201124-27188-uvc5mh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shuichirokinjo/rails/rspec_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/shuichirokinjo/rails/rspec_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/shuichirokinjo/rails/rspec_sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20201124-27188-po9fmk/skiptrace/internal
